@@ -34,7 +34,7 @@ Authors Galaletsang and Melvin Kisten explore Web Development in HTML & CSS, for
    cd code-clinic-21-08-2021/HTML
    ```
 
-4. Open "index.html" in your favourite browser
+4. Open `index.html` in your favourite browser
 
 ## More Stuff
 
