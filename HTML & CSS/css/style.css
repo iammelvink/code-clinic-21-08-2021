@@ -1,0 +1,26 @@
+h1 {
+    text-align: center;
+    width: 200px;
+    height: 100px;
+}
+
+h3 {
+    color: green;
+}
+
+p {
+    color: cornflowerblue;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+div {
+    margin: 50px;
+}
+
+.container {
+    margin: 100px;
+}
+
+#div-container {
+    margin: 200px;
+}
